@@ -1,0 +1,8 @@
+{
+    "env": {
+        "ANTHROPIC_BASE_URL": "https://openrouter.ai/api",
+        "ANTHROPIC_AUTH_TOKEN": "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",
+        "ANTHROPIC_API_KEY": "",
+        "ANTHROPIC_MODEL": "arcee-ai/trinity-large-preview:free"
+    }
+}
